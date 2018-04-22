@@ -3,7 +3,9 @@ package com.xujun.algorithm.sort.exchange;
 import java.util.Arrays;
 
 /**
- * @todo 冒泡排序 时间复杂度 O(n2) 空间复杂度 O(1)
+ * @todo 冒泡排序 从一组数据的第一个开始,如果两个不等,大的置后,直到数组最后一个数最大,
+ *      再排除最后一个数,前面的n-1个数递归执行
+ *      时间复杂度 O(n2) 空间复杂度 O(1)
  * @author xujun
  * @version 1.0
  * @date 2018年4月1日 下午5:46:08

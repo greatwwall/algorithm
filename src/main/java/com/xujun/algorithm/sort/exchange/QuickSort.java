@@ -3,7 +3,7 @@ package com.xujun.algorithm.sort.exchange;
 import java.util.Arrays;
 
 /**
- * @todo 快速排序
+ * @todo 快速排序 在数组中随便找一个基准数,小于的放左边,大于的放右边
  *      时间复杂度 O(nlogn)
  *      空间复杂度 O(n)
  * @author xujun

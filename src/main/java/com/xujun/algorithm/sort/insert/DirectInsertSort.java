@@ -3,7 +3,8 @@ package com.xujun.algorithm.sort.insert;
 import java.util.Arrays;
 
 /**
- * @todo 直接插入排序 时间复杂度 平均 O(n2),最好O(n) 空间复杂度 O(1)
+ * @todo 直接插入排序 依次将待排序的元素插入前面的有序序列 
+ *      时间复杂度 平均 O(n2),最好O(n) 空间复杂度 O(1)
  * @author xujun
  * @version 1.0
  * @date 2018年4月1日 下午8:10:58

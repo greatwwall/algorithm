@@ -3,7 +3,8 @@ package com.xujun.algorithm.sort.insert;
 import java.util.Arrays;
 
 /**
- * @todo 折半插入排序 时间复杂度 O(n2) 空间复杂度 O(1)
+ * @todo 折半插入排序 依次将待排序的元素插入前面的有序序列,每次判断前面的有序序列中间值大小,递归
+ *      时间复杂度 O(n2) 空间复杂度 O(1)
  * @author xujun
  * @version 1.0
  * @date 2018年4月1日 下午8:23:15

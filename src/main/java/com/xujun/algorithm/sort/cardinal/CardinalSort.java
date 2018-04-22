@@ -3,7 +3,7 @@ package com.xujun.algorithm.sort.cardinal;
 import java.util.Arrays;
 
 /**
- * @todo 基数排序
+ * @todo 基数排序 把一组数据m的所有数据从个位到高位,每次将所有数据从0-9排序
  * @author xujun
  * @version 1.0
  * @date 2018年4月1日 下午10:34:52
